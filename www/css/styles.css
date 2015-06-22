@@ -68,6 +68,13 @@ header {
     float: left;
 }
 
+#phoneLogo {
+	width: 50px;
+	margin-left: 50px;
+	
+}
+
+
 .menu-btn {
     width: 96px;
     padding: 10px;

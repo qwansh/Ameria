@@ -6,6 +6,8 @@
 	
 	#standartLogo { display: none; } 
 	#phoneLogo { display: block; }
+	
+		
 }
  
 
@@ -18,10 +20,24 @@
 	
 	#standartLogo { display: none; } 
 	#phoneLogo { display: block; }
-
+	
+    
 }
 
 @media (min-width: 768px) and (max-width: 1045px ) {
-	#standartLogo { display: none; } 
+	#standartLogo { display: none; }
 	#phoneLogo { display: block; }
+	
+	
+}
+
+
+@media (min-width: 320px) and (max-width: 2500px) {
+   
+	
+	.menu-btn {
+		margin-right: 50px;
+		
+		}
+		
 }
