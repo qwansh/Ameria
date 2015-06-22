@@ -63,13 +63,9 @@ header {
 }
 
 .logo {
-    padding: 20px 0;
+    padding: 17px 0;
     display: inline-block;
     float: left;
-}
-
-.logo img {
-    width: 100%;
 }
 
 .menu-btn {
@@ -859,3 +855,5 @@ img .lazy {
 	margin-bottom: 10px;
 	
 }
+
+#phoneLogo { display: none; }
